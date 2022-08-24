@@ -1,0 +1,18 @@
+body{
+   font-family: Arial, Helvetica, sans-serif;
+
+}
+#studentInfo{
+    background-color: lightslategray;
+    width: 500px;
+    padding: 10px;
+    color: black;
+}
+
+.red{
+    color: red;
+}
+
+.green{
+    color: green;
+}  
